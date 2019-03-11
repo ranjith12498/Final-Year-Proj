@@ -9,7 +9,7 @@
 <h4>Team Members:</h4>
 <ul>
 	<li>Ranjith Kumar</li>
-	<li>Ramnathan</li>
+	<li>Ramanathan</li>
 	
 </ul>
 <h4>Project Installation</h4>
