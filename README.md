@@ -8,10 +8,9 @@
 </p>
 <h4>Team Members:</h4>
 <ul>
-	<li>Mohit Sehgal (Project Leader)</li>
-	<li>Pranav Puri</li>
-	<li>Umesh Verma</li>
-	<li>Toyaz </li>
+	<li>Ranjith Kumar</li>
+	<li>Ramnathan</li>
+	
 </ul>
 <h4>Project Installation</h4>
 <ol>
